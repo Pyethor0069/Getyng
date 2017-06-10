@@ -1,0 +1,10 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\KoG.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\KoG.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\KoG.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\obj\Release\KoG.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\KoG\KoG\obj\Release\KoG.pdb
