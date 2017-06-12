@@ -1,0 +1,10 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\Combo - Katy.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\Combo - Katy.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\Combo - Katy.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\obj\Release\Combo - Katy.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2017\Projects\Combo - Katy\Combo - Katy\obj\Release\Combo - Katy.pdb

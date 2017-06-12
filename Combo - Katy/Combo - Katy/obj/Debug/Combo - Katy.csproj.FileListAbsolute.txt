@@ -1,0 +1,11 @@
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\Combo - Katy.exe.config
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\Combo - Katy.exe
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\Combo - Katy.pdb
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\obj\Debug\Combo - Katy.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\obj\Debug\Combo - Katy.exe
+c:\users\edcarlos\documents\visual studio 2017\Projects\Combo - Katy\Combo - Katy\obj\Debug\Combo - Katy.pdb
