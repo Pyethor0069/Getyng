@@ -1,0 +1,11 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\Blitz.exe.config
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\Blitz.exe
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\Blitz.pdb
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\EloBuddy.dll
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\SharpDX.dll
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\obj\Debug\Blitz.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\obj\Debug\Blitz.exe
+C:\Users\Edcarlos\documents\visual studio 2015\Projects\Blitz\Blitz\obj\Debug\Blitz.pdb

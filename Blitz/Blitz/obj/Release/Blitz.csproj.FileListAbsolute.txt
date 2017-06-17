@@ -1,0 +1,10 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\Blitz.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\Blitz.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\Blitz.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\obj\Release\Blitz.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Blitz\Blitz\obj\Release\Blitz.pdb
